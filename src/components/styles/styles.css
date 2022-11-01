@@ -225,19 +225,18 @@ position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .pie-pagina .grupo-1 .box figure img{
     width: 250px;
 }
 .pie-pagina .grupo-1 .box h2{
     color: #fff;
-    margin-bottom: 25px;
-    font-size: 20px;
+    margin-bottom: 8px;
+    font-size: 13px;
+    
 }
-.pie-pagina .grupo-1 .box p{
-    color: #efefef;
-    margin-bottom: 10px;
-}
+
 .pie-pagina .grupo-1 .red-social a{
     display: inline-block;
     text-decoration: none;
@@ -269,4 +268,19 @@ position: relative;
         grid-gap:30px;
         padding: 35px 0px;
     }
+}
+
+.footerTag{
+
+    color: #efefef;
+    margin-bottom: 10px;
+    font-size: 10px;
+    text-decoration: none;
+    
+
+}
+.box{
+
+margin-right: 1px;
+
 }
