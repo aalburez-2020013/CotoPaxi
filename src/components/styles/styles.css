@@ -284,3 +284,56 @@ position: relative;
 margin-right: 1px;
 
 }
+.divPreguntas{
+    align-items: center;
+gap: 40px;
+width: 1359px;
+height: 328px;
+margin: 80px;
+
+}
+
+.tittlePreguntas{
+
+text-align: center;
+margin: 40px;
+}
+
+.btn{
+
+    font-family: "Poppins";
+    text-decoration: none;
+    background-color: rgb(250, 46, 46);
+    color: #292C2E;
+    padding: 16px;
+    gap: 4px;
+    border-radius: 52px;
+    width: Fill (286.33px);
+    height: Fill (76px);
+    border-color: #0a141d;
+   
+    border: 3px;
+}
+.p1{
+    align-items: center;
+    font-family: Mont;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+
+.p2{
+   
+    
+    font-family: Gotham Narrow;
+    font-size: 16px;
+    font-weight: 325;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+
+}
