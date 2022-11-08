@@ -365,6 +365,14 @@ margin: 40px;
 
 }
 
+.box{
+
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+
 .grid-container{
 
 display: grid;
