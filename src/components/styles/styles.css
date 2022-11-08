@@ -343,7 +343,7 @@ margin: 40px;
 }
 .p1{
     align-items: center;
-    font-family: Mont;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
     font-weight: 900;
     line-height: 40px;
@@ -368,7 +368,7 @@ margin: 40px;
 .grid-container{
 
 display: grid;
-grid-template-columns: auto auto auto auto;
+grid-template-columns: auto auto auto;
 
 justify-content: center;
 height: 120px;
