@@ -496,6 +496,26 @@ text-align: center;
 margin: 40px;
 }
 
+
+.btn1{
+
+    margin: 15px 15px;
+   
+    font-family: "Poppins";
+    text-decoration: none;
+    background-color: #127EB1;
+    color: #ffffff;
+    padding: 15px 50px ;
+   
+    border-radius: 27px;
+    margin: 15px 50px;
+    text-align: center;
+   
+    border: 2px solid rgb(99, 98, 98);
+}
+
+
+
 .btn{
 
   margin: 15px 15px;
@@ -614,7 +634,7 @@ background-color: #F1F1F1;
     top: 0px;
     border-radius: 0px;
     padding: 8px 24px 8px 24px;
-    background-color: #292C2E33;    
+    background-color: #292c2e;    
     color: #FFFFFF;
 text-decoration: none;
 }
@@ -1018,9 +1038,6 @@ text-decoration: none;
         margin-left: 2000px;
     
         }
-
-
-        
     
 
 }
